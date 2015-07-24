@@ -1,0 +1,10 @@
+PODS:
+  - SyntaxKit (0.1.0)
+
+DEPENDENCIES:
+  - SyntaxKit
+
+SPEC CHECKSUMS:
+  SyntaxKit: 6980f45500cbd74f37901f4d4fc8e93add669ade
+
+COCOAPODS: 0.36.3
