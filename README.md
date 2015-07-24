@@ -18,7 +18,7 @@ Since there is no real demo application which shows the use of SyntaxKit in a NS
 ### Screenshots
 Before you download/install the application you can get a little sneak peek by looking at this screenshots:
 
-![alt tag](https://raw.github.com/T-Rex-Editor/TRexSyntaxKitDemo/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/T-Rex-Editor/TRexSyntaxKitDemo/master/screenshot.png)
 
 ### Installation
 
