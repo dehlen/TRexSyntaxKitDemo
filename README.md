@@ -1,10 +1,6 @@
 # TRexSyntaxKitDemo
 
-T-Rex is a beautifully designed Mac application to write and compile LaTeX documents.
-As an addition it is the first Swift-only LaTeX editor.
-The application also features a command-line-interface which is written in Ruby.
-
-You can find both of them here: [T-Rex Repositories](https://github.com/T-Rex-Editor).
+Demo application to show the usage of SyntaxKit in a NSTextView.
 
 ### SyntaxKit
 [SyntaxKit](https://github.com/soffes/SyntaxKit) is a Swift-Only library which provides an SyntaxParser for your application. The parser supports Textmate's tmLanguage and tmTheme files which I think is super cool. Therefore this library is heavily used in T-Rex Editor.
@@ -18,7 +14,7 @@ Since there is no real demo application which shows the use of SyntaxKit in a NS
 ### Screenshots
 Before you download/install the application you can get a little sneak peek by looking at this screenshots:
 
-![alt tag](https://raw.githubusercontent.com/T-Rex-Editor/TRexSyntaxKitDemo/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/dehlen/TRexSyntaxKitDemo/master/screenshot.png)
 
 ### Installation
 
